@@ -19,9 +19,9 @@ Hi, I'm Gilsang Jo, a mobile client developer from Repulic of korea
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"></code> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=dark)](https://github.com/jogilsang/resume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=dark)](https://github.com/jogilsang/manual-job)
 
 
 <!--]
