@@ -1,9 +1,5 @@
 ### Hi there, Welcome [My Space!](https://blog.naver.com/jogilsang) 🐤🐥🐣
 
-<a href="https://www.instagram.com/jogilsang3/?hl=ko">
-  <img align="left" alt="jogilsang | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />
-</a>
-
 <br />
 <br />
 
@@ -12,6 +8,12 @@ Hi, I'm Gilsang Jo, a mobile client developer from Repulic of korea
 - 🔭 I’m currently working on Seoul
 - 🌱 I’m currently interesting on Java and Kotlin
 - 💬 If you want it Something, Give me issue [Click](https://github.com/jogilsang/jogilsang/issues) 
+
+**SNS:**  
+
+<a href="https://www.instagram.com/jogilsang3/?hl=ko">
+  <img align="left" alt="jogilsang | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />
+</a>
 
 **Languages and Tools:**  
 
