@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 🐤🐥🐣
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+
 <!--]
 **jogilsang/jogilsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
