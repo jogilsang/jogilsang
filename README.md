@@ -7,12 +7,11 @@
 <br />
 <br />
 
-안녕하세요. 전 조길상 입니다. 
 Hi, I'm Gilsang Jo, a mobile client developer from Repulic of korea
 
-- 🔭 전 현재 서울시에서 거주와 근무를 하고있습니다. (I’m currently working on Seoul)
-- 🌱 전 현재 Java와 Kotlin에 관심이있습니다. (I’m currently interesting on Java and Kotlin)
-- 💬 문의내용이 있다면, 이슈로 주실수있습니다.(If you want it Something, Give me issue) [클릭](https://github.com/jogilsang/jogilsang/issues) 
+- 🔭 I’m currently working on Seoul
+- 🌱 I’m currently interesting on Java and Kotlin
+- 💬 If you want it Something, Give me issue [Click](https://github.com/jogilsang/jogilsang/issues) 
 
 **Languages and Tools:**  
 
@@ -21,6 +20,7 @@ Hi, I'm Gilsang Jo, a mobile client developer from Repulic of korea
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true)
 
 
 <!--]
