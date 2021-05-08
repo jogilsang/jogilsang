@@ -13,7 +13,7 @@ Hi, I'm Gilsang Jo, a mobile client developer from Repulic of korea
 
 <a href="https://www.instagram.com/jogilsang3/?hl=ko">
   <img align="left" alt="jogilsang | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />
-</a>
+</a>   
 
 **Languages and Tools:**  
 
