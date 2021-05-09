@@ -1,10 +1,11 @@
 ### Welcome My Space! 🐤🐥🐣
 
-Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer from Repulic of korea
+Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a Repulic of korea
+I’m currently working on Seoul. Suggestions for mobile development offers are welcome
 
-- 🌱 I’m currently working on Seoul and interesting on [Android](https://github.com/jogilsang/manual-android) and [Devops](https://github.com/jogilsang/manual-devops).
-- 👯 Suggestions for mobile development jobs are welcome.
-- 💬 If you want it Something, Give me issue [Click](https://github.com/jogilsang/jogilsang/issues) 
+- 📱  [Android](https://github.com/jogilsang/manual-android) Developer
+- 🌱 interesting on [Devops](https://github.com/jogilsang/manual-devops)
+- 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
 
 <!-- if you want, SNS icon
 **SNS:**  
