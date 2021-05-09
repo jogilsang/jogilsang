@@ -62,9 +62,6 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 <code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png" href="https://github.com/jogilsang/manual-slack"> Slack</code>
 
-<br />
-<br />
-
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
