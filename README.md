@@ -68,6 +68,8 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 <code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="https://github.com/jogilsang/manual-jira">JIRA</a></code>
 <code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
+<code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code>
+<code><img alt = "5.5 Adobe After Effect" height="20" src="https://cdn.icon-icons.com/icons2/91/PNG/512/adobe_after_effect_16354.png"> <a href="https://www.behance.net/jogilsang4a00">after effect</a></code>
 
 <!--
 1. Languages : 
@@ -83,7 +85,7 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 ① MSSQL - 2 ② Oracle - 2 ③ Realm  - 2 ④ Linux - 2 
 
 4. Collaboration : 
-① JIRA - 2 ② Confluence WIKI - 2 ③ Slack - 2
+① JIRA - 2 ② Confluence WIKI - 2 ③ Slack - 2 ④ adobe xd - 2
 -->
 
 <!--]
