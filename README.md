@@ -64,6 +64,7 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 <br />
 <br />
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
