@@ -22,22 +22,27 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 **1. Languages**  
 
-<!--1.1 Java --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"></code>
+<!--1.1 Java --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png">\njava</code>
 <!--1.2 Kotlin --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"></code> 
+
+<br />
 
 **2. Framework & Platform:**
 
-<!--2.1 Firebase --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"></code>
-<!--2.2 RxJava --><code><img height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
-<!--2.3 RxKotlin --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"></code>
-<!--2.4 Ionic --><code><img height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"></code>
+<!--2.1 Firebase --><code><img height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"></code>
+<!--2.2 RxJava, RxKotlin --><code><img height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"></code> 
+<!--2.3 Ionic --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"></code>
+
+<br />
 
 **3. Devops:**
 
 <!--3.1 Subversion --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"></code>
 <!--3.2 GIT --><code><img height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
 <!--3.3 AWS --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"></code>
-<!--3.4 Jenkins --><code><img height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"></code>
+<!--3.4 Jenkins --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"></code>
+
+<br />
 
 **4. DB & OS:**  
 
@@ -46,18 +51,28 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 <!--4.3 Realm --><code><img height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
 <!--4.4 Linux --><code><img height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"></code>
 
+<br />
+
 **5. Collaboration and Tools:**  
 
 <!--5.1 Jira --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"></code>
 <!--5.2 Wiki --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"></code>
 <!--5.3 Slack --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"></code>
 
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=dark)](https://github.com/jogilsang/resume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=dark)](https://github.com/jogilsang/manual-job)
+
 <!--
 1. Languages : 
-① Java 1.8 - 3  ③ Kotlin - 1 ④ Javascript - 1
+① Java 1.8 - 3  ② Kotlin - 1  ③ Javascript - 1
 
 2. Framework & Platform : 
-① Firebase - 2 ②  RxJava - 2  ④ RxKotlin - 2 ② Ionic1 - 2
+① Firebase - 2  ② RxJava, RxKotlin - 2  ③ Ionic1 - 2
 
 3. Devops : 
 ① Subversion - 3  ② GIT - 2 ③  AWS - 2  ⑤ Jenkins - 1
@@ -68,12 +83,6 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 4. Collaboration : 
 ① JIRA - 2 ② Confluence WIKI - 2 ③ Slack - 2
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=dark)](https://github.com/jogilsang/resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=dark)](https://github.com/jogilsang/manual-job)
-
 
 <!--]
 **jogilsang/jogilsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
