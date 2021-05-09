@@ -1,10 +1,10 @@
-### Welcome [My Space!](https://blog.naver.com/jogilsang) 🐤🐥🐣
+### Welcome My Space! 🐤🐥🐣
 
 Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer from Repulic of korea
 
-- 🔭 I’m currently working on Seoul.
-- 🌱 I’m currently interesting on [Android](https://github.com/jogilsang/manual-android) and [Devops](https://github.com/jogilsang/manual-devops).
+- 🌱 I’m currently working on Seoul and interesting on [Android](https://github.com/jogilsang/manual-android) and [Devops](https://github.com/jogilsang/manual-devops).
 - 👯 Suggestions for mobile development jobs are welcome.
+- ⚡ If you want to know about me, visit my [blog](https://blog.naver.com/jogilsang)
 - 💬 If you want it Something, Give me issue [Click](https://github.com/jogilsang/jogilsang/issues) 
 
 <!-- if you want, SNS icon
