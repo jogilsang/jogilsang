@@ -40,7 +40,7 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 **2. Framework & Platform:**
 
 <code><img alt = "2.1 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> Firebase</code>
-<code><img alt = "2.2 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> Rx</code> 
+<code><img alt = "2.2 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> ReactiveX</code> 
 <code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic1</a></code>
 
 <br />
