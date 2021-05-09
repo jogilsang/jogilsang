@@ -70,7 +70,6 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 <code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
 <code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code>
-<code><img alt = "5.5 Adobe After Effect" height="20" src="https://cdn.icon-icons.com/icons2/91/PNG/512/adobe_after_effect_16354.png"> <a href="https://www.behance.net/jogilsang4a00">after effect</a></code>
 
 <!--
 1. Languages : 
