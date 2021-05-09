@@ -4,7 +4,6 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 - 🌱 I’m currently working on Seoul and interesting on [Android](https://github.com/jogilsang/manual-android) and [Devops](https://github.com/jogilsang/manual-devops).
 - 👯 Suggestions for mobile development jobs are welcome.
-- ⚡ If you want to know about me, visit my [blog](https://blog.naver.com/jogilsang)
 - 💬 If you want it Something, Give me issue [Click](https://github.com/jogilsang/jogilsang/issues) 
 
 <!-- if you want, SNS icon
@@ -29,7 +28,7 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 ---
 
-I'm sharing my inspiration on the subject below.   
+I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject below.   
 
 **1. Languages**  
 
