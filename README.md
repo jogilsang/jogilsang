@@ -1,6 +1,6 @@
 ### Welcome My Space! 🐤🐥🐣
 
-Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a Repulic of korea
+Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a Repulic of korea   
 I’m currently working on Seoul. Suggestions for mobile development offers are welcome
 
 - 📱  [Android](https://github.com/jogilsang/manual-android) Developer
