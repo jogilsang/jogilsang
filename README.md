@@ -22,6 +22,13 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=dark)](https://github.com/jogilsang/resume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=dark)](https://github.com/jogilsang/manual-job)
+
+---
+
 **1. Languages**  
 
 <code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> <a href="https://github.com/jogilsang/manual-job/tree/master/1.%20interview/1.1%20develop%20%26%20coding/1.1.5%20java%20%26%20kotlin">Java</a></code>
@@ -60,13 +67,6 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 <code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="https://github.com/jogilsang/manual-jira">JIRA</a></code>
 <code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=dark)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=dark)](https://github.com/jogilsang/resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=dark)](https://github.com/jogilsang/manual-job)
 
 <!--
 1. Languages : 
