@@ -29,6 +29,8 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 ---
 
+I'm sharing my inspiration on the subject below.   
+
 **1. Languages**  
 
 <code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> <a href="https://github.com/jogilsang/manual-job/tree/master/1.interview/1.1%20develop%20%26%20coding/1.1.5%20java%20%26%20kotlin">Java</a></code>
