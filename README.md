@@ -3,7 +3,7 @@
 Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer from Repulic of korea
 
 - 🔭 I’m currently working on Seoul.
-- 🌱 I’m currently interesting on Android and Devops.
+- 🌱 I’m currently interesting on [Android](https://github.com/jogilsang/manual-android) and [Devops](https://github.com/jogilsang/manual-devops).
 - 👯 Suggestions for mobile development jobs are welcome.
 - 💬 If you want it Something, Give me issue [Click](https://github.com/jogilsang/jogilsang/issues) 
 
@@ -20,11 +20,13 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 <br />
 -->
 
+---
+
 **1. Languages**  
 
-<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> Java</code>
-<code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> Kotlin</code> 
-<code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> Node.js</code> 
+<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" href="https://github.com/jogilsang/manual-job/tree/master/1.%20interview/1.1%20develop%20%26%20coding/1.1.5%20java%20%26%20kotlin"> Java</code>
+<code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" href="https://github.com/jogilsang/manual-kotlin"> Kotlin</code> 
+<code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" href="https://github.com/jogilsang/manual-nodejs"> Node.js</code> 
 
 <br />
 
@@ -32,16 +34,16 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 <code><img alt = "2.1 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> Firebase</code>
 <code><img alt = "2.2 RxJava,RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> Rx</code> 
-<code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> Ionic1</code>
+<code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" href="https://github.com/jogilsang/manual-ionic"> Ionic1</code>
 
 <br />
 
 **3. Devops:**
 
-<code><img alt = "3.1 Subversion" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> Subversion</code>
-<code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> GIT</code> 
-<code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> AWS</code>
-<code><img alt = "3.3 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> Jenkins</code>
+<code><img alt = "3.1 Subversion" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png" href="https://github.com/jogilsang/manual-svn"> Subversion</code>
+<code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" href="https://github.com/jogilsang/manual-github"> GIT</code> 
+<code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png" href="https://github.com/jogilsang/manual-aws"> AWS</code>
+<code><img alt = "3.3 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png" href="https://github.com/jogilsang/manual-jenkins"> Jenkins</code>
 
 <br />
 
@@ -50,15 +52,15 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> MS-SQL</code>
 <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> Oracle</code>
 <code><img alt = "4.3 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> Realm</code> 
-<code><img alt = "4.4 Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> Ubuntu</code>
+<code><img alt = "4.4 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> Ubuntu</code>
 
 <br />
 
 **5. Collaboration and Tools:**  
 
-<code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> JIRA</code>
+<code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png" href="https://github.com/jogilsang/manual-jira"> JIRA</code>
 <code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
-<code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> Slack</code>
+<code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png" href="https://github.com/jogilsang/manual-slack"> Slack</code>
 
 <br />
 <br />
@@ -70,7 +72,7 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 <!--
 1. Languages : 
-① Java 1.8 - 3  ② Kotlin - 1  ③ Javascript - 1
+① Java 1.8 - 3  ② Kotlin - 1  ③ Node.js - 1
 
 2. Framework & Platform : 
 ① Firebase - 2  ② RxJava, RxKotlin - 2  ③ Ionic1 - 2
