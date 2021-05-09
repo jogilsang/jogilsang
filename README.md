@@ -22,42 +22,43 @@ Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a developer fro
 
 **1. Languages**  
 
-<!--1.1 Java --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png">\njava</code>
-<!--1.2 Kotlin --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"></code> 
+<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png">
+  Java</code>
+<code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"></code> 
 
 <br />
 
 **2. Framework & Platform:**
 
-<!--2.1 Firebase --><code><img height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"></code>
-<!--2.2 RxJava, RxKotlin --><code><img height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"></code> 
-<!--2.3 Ionic --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"></code>
+<code><img alt = "2.1 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"></code>
+<code><img alt = "2.2 RxJava,RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"></code> 
+<code><img alt = "2.3 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"></code>
 
 <br />
 
 **3. Devops:**
 
-<!--3.1 Subversion --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"></code>
-<!--3.2 GIT --><code><img height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
-<!--3.3 AWS --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"></code>
-<!--3.4 Jenkins --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"></code>
+<code><img alt = "3.1 Subversion" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"></code>
+<code><img alt = "3.2 GIT" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
+<code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"></code>
+<code><img alt = "3.3 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"></code>
 
 <br />
 
 **4. DB & OS:**  
 
-<!--4.1 MS-SQL --><code><img height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"></code>
-<!--4.2 Oracle --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"></code>
-<!--4.3 Realm --><code><img height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
-<!--4.4 Linux --><code><img height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"></code>
+<code><img alt = "4.1 MS-SQL" <code><img height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"></code>
+<code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"></code>
+<code><img alt = "4.3 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"></code> 
+<code><img alt = "4.4 Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"></code>
 
 <br />
 
 **5. Collaboration and Tools:**  
 
-<!--5.1 Jira --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"></code>
-<!--5.2 Wiki --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"></code>
-<!--5.3 Slack --><code><img height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"></code>
+<code><img alt = "5.1 JIRA" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"></code>
+<code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"></code>
+<code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"></code>
 
 <br />
 <br />
