@@ -33,7 +33,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 **1. Languages**  
 
-<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> <a href="https://github.com/jogilsang/manual-job/tree/master/1.interview/1.1%20develop%20%26%20coding/1.1.5%20java%20%26%20kotlin">Java</a></code>
+<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> <a href="https://github.com/jogilsang/manual-java">Java</a></code>
 <code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code> 
 <code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/manual-nodejs">Node.js</a></code> 
 
@@ -71,7 +71,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 <code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="https://github.com/jogilsang/manual-jira">JIRA</a></code>
 <code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
-<code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code>
+<!-- <code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code> -->
 
 <!--
 1. Languages : 
