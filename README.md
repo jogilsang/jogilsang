@@ -43,7 +43,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 <code><img alt = "2.1 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/1.Firebase">Firebase</a></code>
 <code><img alt = "2.2 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/2.ReactiveX">ReactiveX</a></code> 
-<code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic1</a></code>
+<code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic</a></code>
 
 <br />
 
@@ -52,15 +52,16 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 <code><img alt = "3.1 Subversion" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="https://github.com/jogilsang/manual-svn">Subversion</a></code>
 <code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> <a href="https://github.com/jogilsang/manual-github">GIT</a></code> 
 <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/1.aws">AWS</a></code>
-<code><img alt = "3.4 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/3.jenkins">Jenkins</a></code>
-<code><img alt = "3.5 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/4.ubuntu">Ubuntu</a></code>
+<code><img alt = "3.4 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/4.ubuntu">Ubuntu</a></code>
+<!-- <code><img alt = "3.4 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/3.jenkins">Jenkins</a></code> -->
 
 <br />
 
 **4. DB:**  
 
-<code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code>
+<code><img alt = "4.1 RDBMS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_db_icon_130469.png"> <a href="https://github.com/jogilsang/manual-db">RDBMS</a></code>
 <code><img alt = "4.2 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> <a href="https://github.com/jogilsang/manual-db/tree/master/3.realm">Realm</a></code> 
+<!-- <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code> -->
 <!-- <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/2.oracle">Oracle</a></code> -->
 
 <br />
