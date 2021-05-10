@@ -60,8 +60,8 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 **4. DB:**  
 
 <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code>
-<code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/2.oracle">Oracle</a></code>
-<code><img alt = "4.3 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> <a href="https://github.com/jogilsang/manual-db/tree/master/3.realm">Realm</a></code> 
+<!-- <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/2.oracle">Oracle</a></code> -->
+<code><img alt = "4.2 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> <a href="https://github.com/jogilsang/manual-db/tree/master/3.realm">Realm</a></code> 
 
 <br />
 
