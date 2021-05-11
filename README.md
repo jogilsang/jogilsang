@@ -33,7 +33,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 **1. Languages**  
 
-<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> <a href="https://github.com/jogilsang/manual-java">Java</a></code>
+<code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> Java</a></code>
 <code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code> 
 <code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/manual-nodejs">Node.js</a></code> 
 
@@ -49,7 +49,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 **3. Devops:**
 
-<code><img alt = "3.1 Subversion" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="https://github.com/jogilsang/manual-svn">Subversion</a></code>
+<code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> SVN</a></code>
 <code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> <a href="https://github.com/jogilsang/manual-github">GIT</a></code> 
 <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/1.aws">AWS</a></code>
 <code><img alt = "3.4 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/4.ubuntu">Ubuntu</a></code>
