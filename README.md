@@ -7,7 +7,7 @@ I’m currently working on Seoul. Suggestions for mobile development offers are 
 - 🌱 interesting on [Devops](https://github.com/jogilsang/manual-devops)
 - 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
 
-<script src="https://gist.github.com/jogilsang/4d18b0a260a268818c60cf757e7f7c56.js"></script>
+![](https://gist.github.com/jogilsang/4d18b0a260a268818c60cf757e7f7c56.js)
 
 <!-- if you want, SNS icon
 **SNS:**  
