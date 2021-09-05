@@ -41,6 +41,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 <code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code> 
 <code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/manual-nodejs">Node.js</a></code> 
 <code><img alt = "1.4 shell" height="20" src="https://cdn4.iconfinder.com/data/icons/proglyphs-computers-and-development/512/Terminal-512.png"> <a href="https://github.com/jogilsang/manual-shell">Shell</a></code> 
+<code><img alt = "1.4 shell" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png"> <a href="https://github.com/jogilsang/manual-perl">Perl</a></code> 
 
 <br />
 
@@ -48,6 +49,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 <code><img alt = "2.1 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/1.Firebase">Firebase</a></code>
 <code><img alt = "2.2 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/2.ReactiveX">ReactiveX</a></code> 
+<code><img alt = "2.3 Vue" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png"> <a href="https://github.com/jogilsang/manual-vue">Vue.js</a></code>
 <!-- <code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic</a></code> -->
 
 <br />
@@ -70,6 +72,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 <code><img alt = "4.1 RDBMS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_db_icon_130469.png"> <a href="https://github.com/jogilsang/manual-db">RDBMS</a></code>
 <code><img alt = "4.2 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> <a href="https://github.com/jogilsang/manual-db/tree/master/3.realm">Realm</a></code> 
+<code><img alt = "4.2 Realm" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/6.mongoDB">MongoDB</a></code> 
 <!-- <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code> -->
 <!-- <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/2.oracle">Oracle</a></code> -->
 
@@ -78,7 +81,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 **5. Collaboration and Tools:**  
 
 <code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="https://github.com/jogilsang/manual-jira">JIRA</a></code>
-<code><img alt = "5.2 WIKI" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> WIKI</code>
+<code><img alt = "5.2 Confluence" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> Confluence</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
 <!-- <code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code> -->
 
