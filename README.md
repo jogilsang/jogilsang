@@ -7,8 +7,8 @@
 Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a Repulic of korea   
 I’m currently working on Seoul. 
 
-- 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android)
-- 🌱 interesting on [Devops](https://github.com/jogilsang/manual-devops)
+<!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android)
+- 🌱 interesting on [Devops](https://github.com/jogilsang/manual-devops) -->
 - 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
 
 <!-- if you want, SNS icon
