@@ -60,7 +60,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 **3. Devops:**
 
-<code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> SVN</a></code>
+<code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="https://github.com/jogilsang/scm/tree/master/2.svn">SVN</a></code>
 <code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> <a href="https://github.com/jogilsang/manual-github">GIT</a></code> 
 <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/devops/tree/master/1.aws">AWS</a></code>
 <code><img alt = "3.4 Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux">Linux</a></code>
