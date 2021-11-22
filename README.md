@@ -43,8 +43,8 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 <code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> Java</a></code>
 <code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code> 
 <code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/manual-nodejs">Node.js</a></code> 
-<code><img alt = "1.4 shell" height="20" src="https://cdn4.iconfinder.com/data/icons/proglyphs-computers-and-development/512/Terminal-512.png"> <a href="https://github.com/jogilsang/manual-shell">Shell</a></code> 
-<code><img alt = "1.4 shell" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png"> <a href="https://github.com/jogilsang/manual-perl">Perl</a></code> 
+<code><img alt = "1.4 shell" height="20" src="https://cdn4.iconfinder.com/data/icons/proglyphs-computers-and-development/512/Terminal-512.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux/shell">Shell</a></code> 
+<code><img alt = "1.5 perl" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png"> <a href="https://github.com/jogilsang/manual-perl">Perl</a></code> 
 
 <br />
 
