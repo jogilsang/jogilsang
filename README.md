@@ -54,7 +54,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 **1. Languages**  
 
 <code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> <a href="https://github.com/jogilsang/dev/tree/master/1.java">Java</a></code> 
-<code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/manual-nodejs">Node.js</a></code> 
+<code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/code/tree/master/2.nodejs">Node.js</a></code> 
 <code><img alt = "1.4 shell" height="20" src="https://cdn4.iconfinder.com/data/icons/proglyphs-computers-and-development/512/Terminal-512.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux/shell">Shell</a></code> 
 <!-- <code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code>  -->
 <!-- <code><img alt = "1.5 perl" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png"> <a href="https://github.com/jogilsang/manual-perl">Perl</a></code>  -->
@@ -63,19 +63,19 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 **2. Framework & Platform:**
 
-<code><img alt = "2.1 Android" height="20" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/0.Android">Android</a></code>
-<code><img alt = "2.2 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/1.Firebase">Firebase</a></code>
-<code><img alt = "2.3 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/2.ReactiveX">ReactiveX</a></code> 
-<code><img alt = "2.4 Vue" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png"> <a href="https://github.com/jogilsang/manual-vue">Vue.js</a></code>
-<code><img alt = "2.5 Spring" height="20" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png"> <a href="https://github.com/jogilsang/manual-spring">Spring</a></code>
+<code><img alt = "2.1 Android" height="20" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png"> <a href="https://github.com/jogilsang/code/tree/master/3.android">Android</a></code>
+<code><img alt = "2.2 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> <a href="https://github.com/jogilsang/code/tree/master/3.android/1.Firebase">Firebase</a></code>
+<!-- <code><img alt = "2.3 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/2.ReactiveX">ReactiveX</a></code>  -->
+<code><img alt = "2.4 Vue" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png"> <a href="https://github.com/jogilsang/code/tree/master/6.vuejs">Vue.js</a></code>
+<code><img alt = "2.5 Spring" height="20" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png"> <a href="https://github.com/jogilsang/code/tree/master/7.spring">Spring</a></code>
 <!-- <code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic</a></code> -->
 
 <br />
 
 **3. Devops:**
 
-<code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="https://github.com/jogilsang/scm/tree/master/2.svn">SVN</a></code>
-<code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> <a href="https://github.com/jogilsang/manual-github">GIT</a></code> 
+<code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="https://github.com/jogilsang/devops/tree/master/13.scm/2.svn">SVN</a></code>
+<code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> <a href="https://github.com/jogilsang/devops/tree/master/13.scm/1.git">GIT</a></code> 
 <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/devops/tree/master/1.aws">AWS</a></code>
 <code><img alt = "3.4 Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux">Linux</a></code>
 <code><img alt = "3.5 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/3.jenkins">Jenkins</a></code>
