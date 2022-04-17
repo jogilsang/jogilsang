@@ -4,13 +4,13 @@
 
 ### Welcome My Space!
 
-Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a Repulic of korea   
+Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang-cho-804363145/), a Repulic of korea   
 I'm currently working as a software engineer in Seoul.
 
 <!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
 - 🌱 Interesting on [Devops](https://github.com/jogilsang/manual-devops)  
 - 🐳 My MBTI is ENFP (100%)
-- 🤙 This is my [Linkedin](https://www.linkedin.com/in/gilsang-cho-804363145/) 
+- 🤙 This is my [Blog](https://blog.naver.com/jogilsang) 
 - 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
 
 <!-- if you want, SNS icon
