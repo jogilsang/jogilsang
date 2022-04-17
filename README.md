@@ -54,10 +54,10 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 **1. Languages**  
 
 <code><img alt = "1.1 Java" height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> Java</a></code>
-<code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code> 
+<!-- <code><img alt = "1.2 Kotlin" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"> <a href="https://github.com/jogilsang/manual-kotlin">Kotlin</a></code>  -->
 <code><img alt = "1.3 Node.js" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"> <a href="https://github.com/jogilsang/manual-nodejs">Node.js</a></code> 
 <code><img alt = "1.4 shell" height="20" src="https://cdn4.iconfinder.com/data/icons/proglyphs-computers-and-development/512/Terminal-512.png"> <a href="https://github.com/jogilsang/devops/tree/master/4.linux/shell">Shell</a></code> 
-<code><img alt = "1.5 perl" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png"> <a href="https://github.com/jogilsang/manual-perl">Perl</a></code> 
+<!-- <code><img alt = "1.5 perl" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png"> <a href="https://github.com/jogilsang/manual-perl">Perl</a></code>  -->
 
 <br />
 
@@ -91,7 +91,7 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 <code><img alt = "4.1 RDBMS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_db_icon_130469.png"> <a href="https://github.com/jogilsang/manual-db">RDBMS</a></code>
 <code><img alt = "4.2 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> <a href="https://github.com/jogilsang/manual-db/tree/master/3.realm">Realm</a></code> 
-<code><img alt = "4.2 Realm" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/6.mongoDB">MongoDB</a></code> 
+<code><img alt = "4.3 MongoDB" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/6.mongoDB">MongoDB</a></code> 
 <!-- <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code> -->
 <!-- <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/db/tree/master/2.oracle">Oracle</a></code> -->
 
