@@ -4,7 +4,7 @@
 
 ### Welcome My Space!
 
-Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang-cho-804363145/), a Repulic of korea   
+Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang), a Repulic of korea   
 I'm currently working as a software engineer in Seoul.
 
 <!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
