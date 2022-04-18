@@ -65,10 +65,10 @@ I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject be
 
 <code><img alt = "2.1 Android" height="20" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png"> <a href="https://github.com/jogilsang/code/tree/master/3.android">Android</a></code>
 <code><img alt = "2.2 Firebase" height="20" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"> <a href="https://github.com/jogilsang/code/tree/master/3.android/1.Firebase">Firebase</a></code>
-<!-- <code><img alt = "2.3 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/2.ReactiveX">ReactiveX</a></code>  -->
 <code><img alt = "2.4 Vue" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png"> <a href="https://github.com/jogilsang/code/tree/master/6.vuejs">Vue.js</a></code>
 <code><img alt = "2.5 Spring" height="20" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png"> <a href="https://github.com/jogilsang/code/tree/master/7.spring">Spring</a></code>
 <!-- <code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic</a></code> -->
+<!-- <code><img alt = "2.3 RxJava, RxKotlin" height="20" src="https://miro.medium.com/max/642/1*QtS4PGFLYdNDBL0_lTMaYA.png"> <a href="https://github.com/jogilsang/manual-android/tree/master/2.ReactiveX">ReactiveX</a></code>  -->
 
 <br />
 
