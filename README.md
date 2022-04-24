@@ -35,8 +35,6 @@ I'm currently working as a software engineer in Seoul.
 
 <!-- IDE의 활동이 기록 -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://github.com/jogilsang)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://github.com/jogilsang/jogilsang)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=jogilsang&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
