@@ -5,7 +5,7 @@
 ### Welcome My Space!
 
 Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang), a Repulic of korea   
-I'm currently working as a software engineer in Seoul.
+I'm currently working as a Cloud SA(Solutions Architect) in Seoul.
 
 <!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
 - 🌱 Interesting on [Devops](https://github.com/jogilsang/manual-devops)  
